@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Texto 1</h1>
+    <p>Parágrafo</p>
+
+    <form>
+        Nome: <br>
+        <input type="text" name="nome"> <br>
+        E-mail: <br>
+        <input type="email" name="email"> <br>
+        <input type="submit" value="Enviar">
+    </form>
+    <br>
+    <br>
+
+    <p class="texto-principal fundo-principal">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel beatae provident nulla laudantium! Tempore eaque vel maiores dolorem amet, quos, neque 
+        quia blanditiis tenetur in, dolores at praesentium dolor omnis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error, animi. 
+        Voluptate pariatur laboriosam ducimus unde laudantium totam consectetur odio dolore asperiores impedit minima, incidunt obcaecati, 
+        est veniam tempora. Numquam, error?</p>
+    
+    <p class="texto-principal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae facilis accusantium laborum amet quasi nostrum, non 
+        pariatur nemo cumque tempore ratione sint. Exercitationem perspiciatis fuga odit modi molestiae, animi dignissimos?</p>
+
+
+    <div id="conteudo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aliquid nostrum officia dolorum, 
+        reiciendis a accusantium vitae soluta minima, tempore labore vel consequuntur dolor voluptas necessitatibus deserunt ipsam voluptate cumque?</div>
+
+</body>
+</html>
