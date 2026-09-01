@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desenvolvimento WEB</title>
+</head>
+<body>
+    <center>Mudando o Estilo de Caracteres</center>
+    <p>
+        <b>Texto negrito</b><br>
+        <i>Texto em itálico</i><br>
+        <u>Texto sublinhado</u><br>
+        <tt>Texto com monoespaço</tt><br>
+        <font color="red">Texto em vermelho</font><br>
+        <font size="6">Tamanho da fonte</font>
+        <br>
+        <h1><font size="7">Tamanhos de Títulos</font></h1>
+        <h2>Tamanho do título h2</h2>
+        <h3>Tamanho do título h3</h3>
+        <h4>Tamanho do título h4</h4>
+        <h5>Tamanho do título h5</h5>
+        <h6>Tamanho do título h6</h6>
+        <br>
+    <center><font face ="Verdana" size = "7" color ="purple">Olá, Mundo!!!</font></center>
+    <pre>Centro Universitário de Brasília
+            Ciências da Computação
+    Desenvolvimento WEB
+        Aula 02
+    </pre>
+
+    <hr width="80%" size="20" noshade="" align="center"
+    color="orange">
+
+    <center><font face="arial black" size ="5" color="red">Alinhamento de textos e parágrafos</font>
+    </center>
+    <h4 align ="center"> Título centralizado</h4>
+    <h4 align="right">Título à Direita</h4>
+    <h4 align="left">Título à Esquerda</h4>
+    <hr>
+    <p align="center"> <b>Parágrafo ao centro: </b> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus exercitationem, rem laboriosam quos ea, deserunt, ab nemo aut deleniti qui quam esse. Voluptate nulla assumenda animi doloribus reprehenderit voluptatem sit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem optio sint veniam odit tempore minus recusandae officiis ipsam veritatis? Adipisci corrupti, assumenda provident eaque tempora nemo saepe omnis eos repudiandae.
+    </p>
+    <p align="right"> <b>Parágrafo à direta: </b> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus exercitationem, rem laboriosam quos ea, deserunt, ab nemo aut deleniti qui quam esse. Voluptate nulla assumenda animi doloribus reprehenderit voluptatem sit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem optio sint veniam odit tempore minus recusandae officiis ipsam veritatis? Adipisci corrupti, assumenda provident eaque tempora nemo saepe omnis eos repudiandae.
+    </p>
+    <p align="left"> <b>Parágrafo à esquerda: </b> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus exercitationem, rem laboriosam quos ea, deserunt, ab nemo aut deleniti qui quam esse. Voluptate nulla assumenda animi doloribus reprehenderit voluptatem sit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem optio sint veniam odit tempore minus recusandae officiis ipsam veritatis? Adipisci corrupti, assumenda provident eaque tempora nemo saepe omnis eos repudiandae.
+    <p align="justify"> <b>Parágrafo justificado: </b> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus exercitationem, rem laboriosam quos ea, deserunt, ab nemo aut deleniti qui quam esse. Voluptate nulla assumenda animi doloribus reprehenderit voluptatem sit. Lorem ipsum dolor sit amet <mark>consectetur</mark> adipisicing elit. Dolorem optio sint veniam odit tempore minus recusandae officiis ipsam veritatis? Adipisci corrupti, assumenda provident eaque tempora nemo saepe omnis eos repudiandae.
+    </p>
+        <hr>
+        <h3> Citação - tabulação</h3>
+        <blockquote>Texto com uma tabulação</blockquote>
+        <blockquote>Texto com duas tabulações</blockquote>
+    <hr>
+    <!--CRIAR LISTA NUMERADA-->
+    <h3>-LISTA NUMERADA</h3>
+    <ol>
+        <li><font size="3" face="Courier New">Lápis</font></li>
+        <li><font size="3" face="Courier New">Borracha</font></li>
+        <li><font size="3" face="Courier New">Caderno</font></li>
+    </ol>
+<hr>
+    <!--LISTA NÃO NUMERADA  types: disk, square, circle-->
+    <h3>LISTA NÃO NUMERADA</h3>
+    <ul type="square">
+        <li>Mesas</li>
+        <li>Cadeiras</li>
+        <li>Sofá</li>
+    </ul>
+
+    <hr>
+    <h3>LISTA DE DEFINIÇÃO</h3>
+    <dl>
+        <dt>CEUB</dt>
+        <dd>Instituição de ensino, cursos de tecnologia <br>
+        Ciências da Computação, ADS</dd>
+    </dl>
+
+<hr width="80%" size="20" noshade="" align="center"
+color="orange">
+<h3>Tabelas</h3>
+<h1>Tabela-1</h1>
+<table border="2">
+    <tr>
+        <td>Itens/Mês</td>
+        <th>Janeiro</th>
+        <th>Fevereiro</th>
+        <th>Março</th>
+    </tr>
+    <tr>
+        <th>Usuários</th>
+        <td>80</td>
+        <td>93</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <th>Linhas</th>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+    </tr>
+</table>
+</body>
+</html>
