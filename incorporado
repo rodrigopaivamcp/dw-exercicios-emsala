@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Incorporado</title>
+<style>
+    h1{
+        color: blue;
+        font-size: 40px;
+        font-family: underline;
+        text-decoration: underline;
+        font-style: italic;
+        font-family: 'Courier New', Courier, monospace;
+    }
+p{
+    color: brown;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+</style>
+</head>
+<body>
+    <h1>CEUB</h1>
+
+    <p>Aula de Desenvolvimento Web</p>
+    
+    <p>Aula de CSS</p>
+
+    <h1>Ciências da Computação</h1>
+</body>
+</html>
